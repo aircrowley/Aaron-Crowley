@@ -37,12 +37,12 @@ export const spreads = [
     spreadNumber: 2,
     animal: "Elephant",
     coloringPage: {
-      prompt: "cute cartoon elephant, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon baby elephant, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Count the Baby Elephants!",
       type: "counting",
-      prompt: "counting activity page for toddlers, six cute cartoon baby elephants in different poses scattered across the page, large number 6 at bottom to trace, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "counting activity page for toddlers, seven cute cartoon baby elephants in different playful poses with large numbers 1 through 7 next to empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -54,14 +54,14 @@ export const spreads = [
     activityPage: {
       title: "Trace the Letters: G-I-R-A-F-F-E",
       type: "tracing",
-      prompt: "letter tracing activity page for toddlers, large dotted outline letters spelling GIRAFFE with directional arrows, cute small cartoon giraffe in corner, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "letter tracing activity page for toddlers, large dotted outline letters spelling GIRAFFE with a cute cartoon giraffe peeking from the side, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 4,
     animal: "Puppy",
     coloringPage: {
-      prompt: "cute cartoon puppy, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon puppy dog, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Find 3 Differences Between the Puppies!",
@@ -78,7 +78,7 @@ export const spreads = [
     activityPage: {
       title: "Connect the Dots to Reveal the Kitten!",
       type: "connect-dots",
-      prompt: "connect the dots activity page for toddlers, numbered dots 1 through 10 forming the outline of a cute cartoon kitten, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "connect the dots activity page for toddlers, numbered dots 1 through 15 forming the outline of a cute cartoon kitten with partially drawn face, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -88,9 +88,9 @@ export const spreads = [
       prompt: "cute cartoon bunny rabbit, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Color the Bunny by Numbers!",
-      type: "color-by-number",
-      prompt: "color by number activity page for toddlers, large cute cartoon bunny divided into simple sections each labeled with numbers 1 through 4, color key at bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      title: "Match the Bunnies to Their Carrots!",
+      type: "matching",
+      prompt: "matching activity page for toddlers, three cute cartoon bunnies on the left and three carrots on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -100,21 +100,21 @@ export const spreads = [
       prompt: "cute cartoon bear, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Match the Bears to Their Honey Pots!",
-      type: "matching",
-      prompt: "matching activity page for toddlers, three cute cartoon bears on left side and three honey pots on right side with lines to draw between them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      title: "Color the Bear by Numbers!",
+      type: "color-by-number",
+      prompt: "color by number activity page for toddlers, large cute cartoon bear divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 8,
     animal: "Monkey",
     coloringPage: {
-      prompt: "cute cartoon monkey, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon monkey hanging from a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Which Monkey Is Different?",
+      title: "Which Monkey is Different?",
       type: "which-is-different",
-      prompt: "which is different activity page for toddlers, four cute cartoon monkeys in a row where one monkey is slightly different from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "which is different activity page for toddlers, four cute cartoon monkeys in a row where one monkey has a small difference from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -126,19 +126,19 @@ export const spreads = [
     activityPage: {
       title: "Big Penguin and Small Penguin!",
       type: "big-vs-small",
-      prompt: "big vs small activity page for toddlers, one large cute cartoon penguin and one small cute cartoon penguin side by side, text asking which is big and which is small, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "big vs small activity page for toddlers, pairs of cute cartoon penguins in different sizes asking children to circle the big one and cross the small one, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 10,
     animal: "Owl",
     coloringPage: {
-      prompt: "cute cartoon owl, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon owl sitting on a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Complete the Owl Pattern!",
       type: "pattern-completion",
-      prompt: "pattern completion activity page for toddlers, repeating pattern of cute cartoon owl and star with last item missing for child to complete, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "pattern completion activity page for toddlers, repeating pattern of cute cartoon owl then star then owl then star with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -150,7 +150,7 @@ export const spreads = [
     activityPage: {
       title: "Match the Turtle to Its Shadow!",
       type: "shadow-matching",
-      prompt: "shadow matching activity page for toddlers, cute cartoon turtle on top and three shadow silhouettes below where only one matches the turtle, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "shadow matching activity page for toddlers, three cute cartoon turtles on top and three turtle silhouettes on bottom in different order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -162,19 +162,19 @@ export const spreads = [
     activityPage: {
       title: "Find the Hidden Foxes!",
       type: "find-the-hidden",
-      prompt: "hidden object activity page for toddlers, woodland scene with five cute cartoon foxes hiding behind trees and bushes for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "hidden objects activity page for toddlers, woodland scene with five cute cartoon foxes partially hidden behind trees bushes and flowers for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 13,
     animal: "Panda",
     coloringPage: {
-      prompt: "cute cartoon panda bear, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon panda bear eating bamboo, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Help the Panda Find the Bamboo!",
       type: "maze",
-      prompt: "simple maze puzzle for toddlers, cute cartoon panda on one side and bamboo stalks on other side, bold thick black outlines, simple paths, coloring book style, no shading, no color, white background --ar 17:22 --style raw --v 6.1"
+      prompt: "simple maze puzzle for toddlers, cute cartoon panda on one side and a pile of bamboo on other side with simple wide paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -186,19 +186,19 @@ export const spreads = [
     activityPage: {
       title: "Count the Dinosaur Eggs!",
       type: "counting",
-      prompt: "counting activity page for toddlers, cute cartoon dinosaur sitting next to a nest with five eggs, large number 5 at bottom to trace, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "counting activity page for toddlers, cute cartoon dinosaur sitting next to a nest with six large eggs numbered for counting, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 15,
     animal: "Hippo",
     coloringPage: {
-      prompt: "cute cartoon hippopotamus, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon hippopotamus in water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Trace the Letters: H-I-P-P-O",
       type: "tracing",
-      prompt: "letter tracing activity page for toddlers, large dotted outline letters spelling HIPPO with directional arrows, cute small cartoon hippo in corner, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "letter tracing activity page for toddlers, large dotted outline letters spelling HIPPO with a cute cartoon hippo splashing in water at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -210,55 +210,55 @@ export const spreads = [
     activityPage: {
       title: "Find 3 Differences Between the Zebras!",
       type: "spot-the-difference",
-      prompt: "spot the difference activity page for toddlers, two nearly identical cute cartoon zebras side by side with three simple differences in their stripes and features, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "spot the difference activity page for toddlers, two nearly identical cute cartoon zebras side by side with three simple differences in their stripe patterns, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 17,
     animal: "Frog",
     coloringPage: {
-      prompt: "cute cartoon frog, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon frog sitting on a lily pad, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Connect the Dots to Reveal the Frog!",
       type: "connect-dots",
-      prompt: "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon frog sitting on a lily pad, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon frog on a lily pad, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 18,
     animal: "Dolphin",
     coloringPage: {
-      prompt: "cute cartoon dolphin, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon dolphin jumping out of water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Color the Dolphin by Numbers!",
-      type: "color-by-number",
-      prompt: "color by number activity page for toddlers, large cute cartoon dolphin jumping over waves divided into simple sections each labeled with numbers 1 through 4, color key at bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      title: "Match the Dolphins to Their Waves!",
+      type: "matching",
+      prompt: "matching activity page for toddlers, four cute cartoon dolphins on the left and four different wave shapes on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 19,
     animal: "Butterfly",
     coloringPage: {
-      prompt: "cute cartoon butterfly, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon butterfly with big decorative wings, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Match the Butterflies to Their Flowers!",
-      type: "matching",
-      prompt: "matching activity page for toddlers, three cute cartoon butterflies on left side and three flowers on right side with lines to draw between them, each pair has matching wing patterns, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      title: "Color the Butterfly by Numbers!",
+      type: "color-by-number",
+      prompt: "color by number activity page for toddlers, large cute cartoon butterfly with wings divided into simple sections with numbers 1 through 6 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 20,
     animal: "Koala",
     coloringPage: {
-      prompt: "cute cartoon koala on a tree branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon koala hugging a tree branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Which Koala Is Different?",
+      title: "Which Koala is Different?",
       type: "which-is-different",
-      prompt: "which is different activity page for toddlers, four cute cartoon koalas in a row where one koala is slightly different from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "which is different activity page for toddlers, four cute cartoon koalas in a row where one koala holds a different item from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
@@ -270,73 +270,58 @@ export const spreads = [
     activityPage: {
       title: "Big Pig and Small Pig!",
       type: "big-vs-small",
-      prompt: "big vs small activity page for toddlers, one large cute cartoon pig and one small cute cartoon piglet side by side, text asking which is big and which is small, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "big vs small activity page for toddlers, pairs of cute cartoon pigs in different sizes asking children to circle the bigger pig in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 22,
     animal: "Duck",
     coloringPage: {
-      prompt: "cute cartoon duck, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon duck swimming in a pond, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Complete the Duck Pattern!",
       type: "pattern-completion",
-      prompt: "pattern completion activity page for toddlers, repeating pattern of cute cartoon duck and pond with last item missing for child to complete, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "pattern completion activity page for toddlers, repeating pattern of cute cartoon duck then fish then duck then fish with missing items for children to draw, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 23,
     animal: "Horse",
     coloringPage: {
-      prompt: "cute cartoon horse, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon horse in a meadow, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Match the Horse to Its Shadow!",
       type: "shadow-matching",
-      prompt: "shadow matching activity page for toddlers, cute cartoon horse on top and three shadow silhouettes below where only one matches the horse, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "shadow matching activity page for toddlers, four cute cartoon horses in different poses on top and four horse silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 24,
     animal: "Shark",
     coloringPage: {
-      prompt: "cute cartoon shark, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon friendly shark, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
       title: "Find the Hidden Sharks!",
       type: "find-the-hidden",
-      prompt: "hidden object activity page for toddlers, underwater ocean scene with five cute cartoon sharks hiding behind coral and seaweed for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+      prompt: "hidden objects activity page for toddlers, underwater ocean scene with five cute cartoon sharks partially hidden behind coral rocks and seaweed for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   },
   {
     spreadNumber: 25,
     animal: "Octopus",
     coloringPage: {
-      prompt: "cute cartoon octopus, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+      prompt: "cute cartoon octopus with curly tentacles, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
     },
     activityPage: {
-      title: "Help the Octopus Find the Seashell!",
+      title: "Help the Octopus Find Its Treasure!",
       type: "maze",
-      prompt: "simple maze puzzle for toddlers, cute cartoon octopus on one side and a seashell on other side, bold thick black outlines, simple paths, coloring book style, no shading, no color, white background --ar 17:22 --style raw --v 6.1"
+      prompt: "simple maze puzzle for toddlers, cute cartoon octopus on one side and a treasure chest on other side with simple curvy paths through underwater scene, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
     }
   }
 ];
-
-const activityColors = {
-  maze: "#FFE0B2",
-  counting: "#C8E6C9",
-  matching: "#BBDEFB",
-  tracing: "#F8BBD0",
-  "spot-the-difference": "#D1C4E9",
-  "color-by-number": "#FFE082",
-  "connect-dots": "#B2EBF2",
-  "which-is-different": "#FFCCBC",
-  "big-vs-small": "#C5E1A5",
-  "pattern-completion": "#E1BEE7",
-  "shadow-matching": "#B0BEC5",
-  "find-the-hidden": "#FFF9C4"
-};
 
 export default function Book1_BigBoldAnimals() {
   const [openSpread, setOpenSpread] = useState(null);
@@ -351,129 +336,146 @@ export default function Book1_BigBoldAnimals() {
   return (
     <>
       <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
-      <div style={{ background: "#FFFBF7", minHeight: "100vh", fontFamily: "'Nunito', sans-serif", padding: "2rem", maxWidth: 900, margin: "0 auto" }}>
-        <header style={{ textAlign: "center", marginBottom: "2rem", borderBottom: "3px solid #FF8A65", paddingBottom: "1.5rem" }}>
-          <h1 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "2rem", color: "#E65100", margin: 0 }}>
-            {metadata.title}
-          </h1>
-          <p style={{ color: "#6D4C41", fontSize: "1.1rem", margin: "0.5rem 0" }}>{metadata.subtitle}</p>
-          <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap", marginTop: "1rem" }}>
-            {[
-              ["Author", metadata.author],
-              ["Price", metadata.price],
-              ["Size", metadata.size],
-              ["Interior", metadata.interior],
-              ["Ages", metadata.ages],
-              ["Pages", metadata.pageCount]
-            ].map(([label, val]) => (
-              <span key={label} style={{ background: "#FFF3E0", padding: "0.3rem 0.8rem", borderRadius: 8, fontSize: "0.85rem", color: "#5D4037" }}>
-                <strong>{label}:</strong> {val}
-              </span>
-            ))}
-          </div>
-        </header>
-
-        <section style={{ background: "#FFF8E1", border: "1px solid #FFE082", borderRadius: 12, padding: "1rem 1.5rem", marginBottom: "2rem" }}>
-          <h3 style={{ fontFamily: "'Fredoka', sans-serif", color: "#F57F17", marginTop: 0 }}>Tips</h3>
-          <ul style={{ margin: 0, paddingLeft: "1.2rem", color: "#5D4037", lineHeight: 1.8 }}>
-            <li>Each spread is a matched pair: same animal on both pages</li>
-            <li>Right page = coloring page | Left page = activity page</li>
-            <li>Click any prompt to copy with <code>/imagine prompt:</code> prefix</li>
-            <li>Activity types rotate through 12 categories for variety</li>
-          </ul>
-        </section>
-
-        <h2 style={{ fontFamily: "'Fredoka', sans-serif", color: "#E65100" }}>All 25 Spreads</h2>
-
-        {spreads.map((spread) => {
-          const isOpen = openSpread === spread.spreadNumber;
-          const actColor = activityColors[spread.activityPage.type] || "#eee";
-          return (
-            <div key={spread.spreadNumber} style={{ marginBottom: "0.75rem", border: "1px solid #FFCC80", borderRadius: 10, overflow: "hidden" }}>
-              <button
-                onClick={() => setOpenSpread(isOpen ? null : spread.spreadNumber)}
-                style={{
-                  width: "100%", padding: "0.8rem 1.2rem", background: isOpen ? "#FFE0B2" : "#FFF3E0",
-                  border: "none", cursor: "pointer", display: "flex", justifyContent: "space-between", alignItems: "center",
-                  fontFamily: "'Nunito', sans-serif", fontSize: "1rem"
-                }}
-              >
-                <span><strong>Spread {spread.spreadNumber}:</strong> {spread.animal}</span>
-                <span style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
-                  <span style={{ background: actColor, padding: "0.15rem 0.5rem", borderRadius: 6, fontSize: "0.75rem" }}>{spread.activityPage.type}</span>
-                  <span>{isOpen ? "\u25B2" : "\u25BC"}</span>
+      <div style={{ background: "#FFFBF7", minHeight: "100vh", fontFamily: "'Nunito', sans-serif", padding: "2rem" }}>
+        <div style={{ maxWidth: 900, margin: "0 auto" }}>
+          {/* Header */}
+          <div style={{ textAlign: "center", marginBottom: "2rem", padding: "2rem", background: "linear-gradient(135deg, #FFE0B2, #FFF3E0)", borderRadius: 16 }}>
+            <h1 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "2rem", color: "#E65100", margin: 0 }}>
+              {metadata.title}
+            </h1>
+            <p style={{ color: "#BF360C", margin: "0.5rem 0 0", fontSize: "1.1rem" }}>{metadata.subtitle}</p>
+            <div style={{ display: "flex", justifyContent: "center", gap: "2rem", marginTop: "1rem", flexWrap: "wrap" }}>
+              {[
+                ["Ages", metadata.ages],
+                ["Price", metadata.price],
+                ["Size", metadata.size],
+                ["Pages", metadata.pageCount],
+                ["Interior", metadata.interior],
+                ["Author", metadata.author]
+              ].map(([label, value]) => (
+                <span key={label} style={{ fontSize: "0.9rem", color: "#5D4037" }}>
+                  <strong>{label}:</strong> {value}
                 </span>
-              </button>
-              {isOpen && (
-                <div style={{ padding: "1rem 1.2rem", background: "#fff" }}>
-                  <div style={{ marginBottom: "1rem" }}>
-                    <h4 style={{ margin: "0 0 0.3rem", color: "#E65100" }}>Coloring Page (Right)</h4>
-                    <div style={{ background: "#FFF8E1", padding: "0.75rem", borderRadius: 8, fontSize: "0.85rem", lineHeight: 1.6, position: "relative" }}>
-                      {spread.coloringPage.prompt}
-                      <button
-                        onClick={() => handleCopy(spread.coloringPage.prompt, `c-${spread.spreadNumber}`)}
-                        style={{
-                          position: "absolute", top: 6, right: 6, background: copiedId === `c-${spread.spreadNumber}` ? "#66BB6A" : "#FF8A65",
-                          color: "#fff", border: "none", borderRadius: 6, padding: "0.25rem 0.6rem", cursor: "pointer", fontSize: "0.75rem"
-                        }}
-                      >
-                        {copiedId === `c-${spread.spreadNumber}` ? "Copied!" : "Copy"}
-                      </button>
-                    </div>
-                  </div>
-                  <div>
-                    <h4 style={{ margin: "0 0 0.3rem", color: "#6A1B9A" }}>
-                      Activity Page (Left) - {spread.activityPage.title}
-                    </h4>
-                    <div style={{ background: "#F3E5F5", padding: "0.75rem", borderRadius: 8, fontSize: "0.85rem", lineHeight: 1.6, position: "relative" }}>
-                      {spread.activityPage.prompt}
-                      <button
-                        onClick={() => handleCopy(spread.activityPage.prompt, `a-${spread.spreadNumber}`)}
-                        style={{
-                          position: "absolute", top: 6, right: 6, background: copiedId === `a-${spread.spreadNumber}` ? "#66BB6A" : "#AB47BC",
-                          color: "#fff", border: "none", borderRadius: 6, padding: "0.25rem 0.6rem", cursor: "pointer", fontSize: "0.75rem"
-                        }}
-                      >
-                        {copiedId === `a-${spread.spreadNumber}` ? "Copied!" : "Copy"}
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              )}
+              ))}
             </div>
-          );
-        })}
-
-        <section style={{ marginTop: "2rem", background: "#FFF3E0", borderRadius: 12, padding: "1.5rem" }}>
-          <h3 style={{ fontFamily: "'Fredoka', sans-serif", color: "#E65100", marginTop: 0 }}>Template Pages</h3>
-          <ol style={{ color: "#5D4037", lineHeight: 2 }}>
-            {metadata.templatePages.map((page, i) => <li key={i}>{page}</li>)}
-          </ol>
-        </section>
-
-        <section style={{ marginTop: "2rem", background: "#E8F5E9", borderRadius: 12, padding: "1.5rem" }}>
-          <h3 style={{ fontFamily: "'Fredoka', sans-serif", color: "#2E7D32", marginTop: 0 }}>KDP Listing Draft</h3>
-          <div style={{ color: "#33691E", lineHeight: 1.8 }}>
-            <p><strong>Title:</strong> {metadata.title}</p>
-            <p><strong>Subtitle:</strong> {metadata.subtitle}</p>
-            <p><strong>Description:</strong> Introduce your little one to 25 adorable animals with this fun-filled coloring and activity book! Each spread features a big, bold coloring page paired with an engaging activity like mazes, counting, tracing, matching, and more. Designed for ages 2-5 with thick outlines and simple shapes perfect for little hands. Keep toddlers entertained and learning with every page!</p>
-            <p><strong>Keywords:</strong> toddler coloring book, animal coloring book, activity book ages 2-5, coloring and activity, preschool workbook, kindergarten activities, kawaii animals coloring</p>
           </div>
-        </section>
 
-        <section style={{ marginTop: "2rem", background: "#E3F2FD", borderRadius: 12, padding: "1.5rem", marginBottom: "2rem" }}>
-          <h3 style={{ fontFamily: "'Fredoka', sans-serif", color: "#1565C0", marginTop: 0 }}>Workflow</h3>
-          <ol style={{ color: "#1A237E", lineHeight: 2 }}>
-            <li>Generate all 50 images in Midjourney using the prompts above</li>
-            <li>Upscale each image to U1 at minimum</li>
-            <li>Process images: remove any artifacts, ensure pure white backgrounds</li>
-            <li>Layout in Canva/InDesign at 8.5 x 11 inches, 300 DPI</li>
-            <li>Add template pages (title, belongs-to, parents note, certificate, CTA, back)</li>
-            <li>Export as print-ready PDF (PDF/X-1a for KDP)</li>
-            <li>Create cover using KDP cover calculator dimensions</li>
-            <li>Upload to KDP and set pricing</li>
-          </ol>
-        </section>
+          {/* Tips */}
+          <div style={{ background: "#FFF8E1", border: "2px dashed #FFB300", borderRadius: 12, padding: "1.5rem", marginBottom: "2rem" }}>
+            <h2 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "1.3rem", color: "#F57F17", marginTop: 0 }}>Production Tips</h2>
+            <ul style={{ margin: 0, paddingLeft: "1.5rem", color: "#5D4037", lineHeight: 1.8 }}>
+              <li>Copy each prompt with the button -- it auto-prepends <code>/imagine prompt:</code></li>
+              <li>Right page = coloring page, Left page = activity page (same animal on both)</li>
+              <li>All prompts use <strong>--ar 17:22</strong> for 8.5 x 11 portrait pages</li>
+              <li>Generate at Midjourney, upscale to 300 DPI, place in your KDP template</li>
+              <li>Activity types rotate through 12 varieties for maximum engagement</li>
+            </ul>
+          </div>
+
+          {/* Spreads Accordion */}
+          <h2 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "1.5rem", color: "#E65100" }}>All 25 Spreads</h2>
+          {spreads.map((spread) => {
+            const isOpen = openSpread === spread.spreadNumber;
+            return (
+              <div key={spread.spreadNumber} style={{ marginBottom: "0.75rem", border: "2px solid #FFE0B2", borderRadius: 12, overflow: "hidden" }}>
+                <button
+                  onClick={() => setOpenSpread(isOpen ? null : spread.spreadNumber)}
+                  style={{
+                    width: "100%", padding: "1rem 1.5rem", background: isOpen ? "#FFE0B2" : "#FFF3E0",
+                    border: "none", cursor: "pointer", display: "flex", justifyContent: "space-between", alignItems: "center",
+                    fontFamily: "'Nunito', sans-serif", fontSize: "1rem"
+                  }}
+                >
+                  <span style={{ fontWeight: 700, color: "#E65100" }}>
+                    Spread {spread.spreadNumber}: {spread.animal}
+                  </span>
+                  <span style={{ fontSize: "0.85rem", color: "#BF360C", background: "#FFF8E1", padding: "2px 10px", borderRadius: 8 }}>
+                    {spread.activityPage.type}
+                  </span>
+                </button>
+                {isOpen && (
+                  <div style={{ padding: "1.5rem", background: "#FFFBF7" }}>
+                    {/* Coloring Page */}
+                    <div style={{ marginBottom: "1.25rem" }}>
+                      <h4 style={{ fontFamily: "'Fredoka', sans-serif", color: "#2E7D32", margin: "0 0 0.5rem" }}>
+                        Right Page -- Coloring Page ({spread.animal})
+                      </h4>
+                      <div style={{ background: "#F1F8E9", borderRadius: 8, padding: "1rem", position: "relative" }}>
+                        <code style={{ fontSize: "0.85rem", lineHeight: 1.6, color: "#33691E", wordBreak: "break-word" }}>
+                          {spread.coloringPage.prompt}
+                        </code>
+                        <button
+                          onClick={() => handleCopy(spread.coloringPage.prompt, `c-${spread.spreadNumber}`)}
+                          style={{
+                            marginTop: "0.75rem", padding: "6px 16px", background: copiedId === `c-${spread.spreadNumber}` ? "#4CAF50" : "#66BB6A",
+                            color: "#fff", border: "none", borderRadius: 6, cursor: "pointer", fontSize: "0.85rem", fontWeight: 600
+                          }}
+                        >
+                          {copiedId === `c-${spread.spreadNumber}` ? "Copied!" : "Copy Coloring Prompt"}
+                        </button>
+                      </div>
+                    </div>
+                    {/* Activity Page */}
+                    <div>
+                      <h4 style={{ fontFamily: "'Fredoka', sans-serif", color: "#1565C0", margin: "0 0 0.5rem" }}>
+                        Left Page -- {spread.activityPage.title}
+                      </h4>
+                      <div style={{ background: "#E3F2FD", borderRadius: 8, padding: "1rem", position: "relative" }}>
+                        <code style={{ fontSize: "0.85rem", lineHeight: 1.6, color: "#0D47A1", wordBreak: "break-word" }}>
+                          {spread.activityPage.prompt}
+                        </code>
+                        <button
+                          onClick={() => handleCopy(spread.activityPage.prompt, `a-${spread.spreadNumber}`)}
+                          style={{
+                            marginTop: "0.75rem", padding: "6px 16px", background: copiedId === `a-${spread.spreadNumber}` ? "#1976D2" : "#42A5F5",
+                            color: "#fff", border: "none", borderRadius: 6, cursor: "pointer", fontSize: "0.85rem", fontWeight: 600
+                          }}
+                        >
+                          {copiedId === `a-${spread.spreadNumber}` ? "Copied!" : "Copy Activity Prompt"}
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            );
+          })}
+
+          {/* Template Pages */}
+          <div style={{ marginTop: "2rem", background: "#F3E5F5", borderRadius: 12, padding: "1.5rem" }}>
+            <h2 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "1.3rem", color: "#6A1B9A", marginTop: 0 }}>Template Pages ({metadata.templatePages.length})</h2>
+            <ol style={{ margin: 0, paddingLeft: "1.5rem", color: "#4A148C", lineHeight: 2 }}>
+              {metadata.templatePages.map((page, i) => (
+                <li key={i}>{page}</li>
+              ))}
+            </ol>
+          </div>
+
+          {/* KDP Listing Draft */}
+          <div style={{ marginTop: "2rem", background: "#E8F5E9", borderRadius: 12, padding: "1.5rem" }}>
+            <h2 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "1.3rem", color: "#2E7D32", marginTop: 0 }}>KDP Listing Draft</h2>
+            <div style={{ color: "#1B5E20", lineHeight: 1.8 }}>
+              <p><strong>Title:</strong> {metadata.title}</p>
+              <p><strong>Subtitle:</strong> {metadata.subtitle}</p>
+              <p><strong>Description:</strong> Introduce your little one to 25 adorable animals with this jumbo coloring and activity book! Each spread features a big, bold coloring page paired with a fun activity -- mazes, counting, matching, tracing, spot-the-difference, and more. Designed with thick outlines and simple shapes perfect for tiny hands. Great for ages 2-5.</p>
+              <p><strong>Keywords:</strong> toddler coloring book, animal coloring book, activity book ages 2-5, preschool coloring, kids animal activities, bold outlines coloring, kindergarten workbook</p>
+            </div>
+          </div>
+
+          {/* Workflow */}
+          <div style={{ marginTop: "2rem", background: "#E0F7FA", borderRadius: 12, padding: "1.5rem", marginBottom: "2rem" }}>
+            <h2 style={{ fontFamily: "'Fredoka', sans-serif", fontSize: "1.3rem", color: "#00695C", marginTop: 0 }}>Production Workflow</h2>
+            <ol style={{ margin: 0, paddingLeft: "1.5rem", color: "#004D40", lineHeight: 2 }}>
+              <li>Copy each prompt and generate in Midjourney (50 total images)</li>
+              <li>Upscale all images to 300 DPI using Topaz or similar</li>
+              <li>Place images in your 8.5 x 11 KDP interior template</li>
+              <li>Add template pages (title, belongs-to, certificate, etc.)</li>
+              <li>Export as print-ready PDF (CMYK, 300 DPI)</li>
+              <li>Design the cover (front, spine, back) per KDP specs</li>
+              <li>Upload to KDP, set pricing, and publish</li>
+            </ol>
+          </div>
+        </div>
       </div>
     </>
   );
