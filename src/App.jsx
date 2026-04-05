@@ -1,7 +1,7 @@
-import PromptSheet from './PromptSheet'
+import PromptRunner from './PromptRunner'
 
 function App() {
-  return <PromptSheet />
+  return <PromptRunner />
 }
 
 export default App
