@@ -1,0 +1,1789 @@
+{
+  "books": [
+    {
+      "bookNumber": 1,
+      "title": "Big Bold Animals Coloring & Activity Book",
+      "folder": "book1_big_bold_animals",
+      "spreads": [
+        {
+          "spreadNumber": 1,
+          "animal": "Lion",
+          "coloringPage": {
+            "filename": "book1_spread01_lion_coloring.png",
+            "prompt": "cute cartoon lion, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread01_lion_activity.png",
+            "type": "maze",
+            "title": "Help the Lion Find His Cubs!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon lion on one side and two lion cubs on other side, bold thick black outlines, simple paths, coloring book style, no shading, no color, white background --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 2,
+          "animal": "Elephant",
+          "coloringPage": {
+            "filename": "book1_spread02_elephant_coloring.png",
+            "prompt": "cute cartoon baby elephant, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread02_elephant_activity.png",
+            "type": "counting",
+            "title": "Count the Baby Elephants!",
+            "prompt": "counting activity page for toddlers, seven cute cartoon baby elephants in different playful poses with large numbers 1 through 7 next to empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 3,
+          "animal": "Giraffe",
+          "coloringPage": {
+            "filename": "book1_spread03_giraffe_coloring.png",
+            "prompt": "cute cartoon giraffe, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread03_giraffe_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: G-I-R-A-F-F-E",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling GIRAFFE with a cute cartoon giraffe peeking from the side, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 4,
+          "animal": "Puppy",
+          "coloringPage": {
+            "filename": "book1_spread04_puppy_coloring.png",
+            "prompt": "cute cartoon puppy dog, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread04_puppy_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Puppies!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon puppies side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 5,
+          "animal": "Kitten",
+          "coloringPage": {
+            "filename": "book1_spread05_kitten_coloring.png",
+            "prompt": "cute cartoon kitten, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread05_kitten_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Kitten!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 15 forming the outline of a cute cartoon kitten with partially drawn face, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 6,
+          "animal": "Bunny",
+          "coloringPage": {
+            "filename": "book1_spread06_bunny_coloring.png",
+            "prompt": "cute cartoon bunny rabbit, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread06_bunny_activity.png",
+            "type": "matching",
+            "title": "Match the Bunnies to Their Carrots!",
+            "prompt": "matching activity page for toddlers, three cute cartoon bunnies on the left and three carrots on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 7,
+          "animal": "Bear",
+          "coloringPage": {
+            "filename": "book1_spread07_bear_coloring.png",
+            "prompt": "cute cartoon bear, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread07_bear_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Bear by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon bear divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 8,
+          "animal": "Monkey",
+          "coloringPage": {
+            "filename": "book1_spread08_monkey_coloring.png",
+            "prompt": "cute cartoon monkey hanging from a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread08_monkey_activity.png",
+            "type": "which-is-different",
+            "title": "Which Monkey is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon monkeys in a row where one monkey has a small difference from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 9,
+          "animal": "Penguin",
+          "coloringPage": {
+            "filename": "book1_spread09_penguin_coloring.png",
+            "prompt": "cute cartoon penguin, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread09_penguin_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Penguin and Small Penguin!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon penguins in different sizes asking children to circle the big one and cross the small one, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 10,
+          "animal": "Owl",
+          "coloringPage": {
+            "filename": "book1_spread10_owl_coloring.png",
+            "prompt": "cute cartoon owl sitting on a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread10_owl_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Owl Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon owl then star then owl then star with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 11,
+          "animal": "Turtle",
+          "coloringPage": {
+            "filename": "book1_spread11_turtle_coloring.png",
+            "prompt": "cute cartoon turtle, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread11_turtle_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Turtle to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon turtles on top and three turtle silhouettes on bottom in different order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 12,
+          "animal": "Fox",
+          "coloringPage": {
+            "filename": "book1_spread12_fox_coloring.png",
+            "prompt": "cute cartoon fox, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread12_fox_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Foxes!",
+            "prompt": "hidden objects activity page for toddlers, woodland scene with five cute cartoon foxes partially hidden behind trees bushes and flowers for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 13,
+          "animal": "Panda",
+          "coloringPage": {
+            "filename": "book1_spread13_panda_coloring.png",
+            "prompt": "cute cartoon panda bear eating bamboo, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread13_panda_activity.png",
+            "type": "maze",
+            "title": "Help the Panda Find the Bamboo!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon panda on one side and a pile of bamboo on other side with simple wide paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 14,
+          "animal": "Dinosaur",
+          "coloringPage": {
+            "filename": "book1_spread14_dinosaur_coloring.png",
+            "prompt": "cute cartoon baby dinosaur, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread14_dinosaur_activity.png",
+            "type": "counting",
+            "title": "Count the Dinosaur Eggs!",
+            "prompt": "counting activity page for toddlers, cute cartoon dinosaur sitting next to a nest with six large eggs numbered for counting, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 15,
+          "animal": "Hippo",
+          "coloringPage": {
+            "filename": "book1_spread15_hippo_coloring.png",
+            "prompt": "cute cartoon hippopotamus in water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread15_hippo_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: H-I-P-P-O",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling HIPPO with a cute cartoon hippo splashing in water at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 16,
+          "animal": "Zebra",
+          "coloringPage": {
+            "filename": "book1_spread16_zebra_coloring.png",
+            "prompt": "cute cartoon zebra, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread16_zebra_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Zebras!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon zebras side by side with three simple differences in their stripe patterns, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 17,
+          "animal": "Frog",
+          "coloringPage": {
+            "filename": "book1_spread17_frog_coloring.png",
+            "prompt": "cute cartoon frog sitting on a lily pad, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread17_frog_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Frog!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon frog on a lily pad, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 18,
+          "animal": "Dolphin",
+          "coloringPage": {
+            "filename": "book1_spread18_dolphin_coloring.png",
+            "prompt": "cute cartoon dolphin jumping out of water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread18_dolphin_activity.png",
+            "type": "matching",
+            "title": "Match the Dolphins to Their Waves!",
+            "prompt": "matching activity page for toddlers, four cute cartoon dolphins on the left and four different wave shapes on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 19,
+          "animal": "Butterfly",
+          "coloringPage": {
+            "filename": "book1_spread19_butterfly_coloring.png",
+            "prompt": "cute cartoon butterfly with big decorative wings, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread19_butterfly_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Butterfly by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon butterfly with wings divided into simple sections with numbers 1 through 6 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 20,
+          "animal": "Koala",
+          "coloringPage": {
+            "filename": "book1_spread20_koala_coloring.png",
+            "prompt": "cute cartoon koala hugging a tree branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread20_koala_activity.png",
+            "type": "which-is-different",
+            "title": "Which Koala is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon koalas in a row where one koala holds a different item from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 21,
+          "animal": "Pig",
+          "coloringPage": {
+            "filename": "book1_spread21_pig_coloring.png",
+            "prompt": "cute cartoon pig, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread21_pig_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Pig and Small Pig!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon pigs in different sizes asking children to circle the bigger pig in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 22,
+          "animal": "Duck",
+          "coloringPage": {
+            "filename": "book1_spread22_duck_coloring.png",
+            "prompt": "cute cartoon duck swimming in a pond, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread22_duck_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Duck Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon duck then fish then duck then fish with missing items for children to draw, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 23,
+          "animal": "Horse",
+          "coloringPage": {
+            "filename": "book1_spread23_horse_coloring.png",
+            "prompt": "cute cartoon horse in a meadow, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread23_horse_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Horse to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, four cute cartoon horses in different poses on top and four horse silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 24,
+          "animal": "Shark",
+          "coloringPage": {
+            "filename": "book1_spread24_shark_coloring.png",
+            "prompt": "cute cartoon friendly shark, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread24_shark_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Sharks!",
+            "prompt": "hidden objects activity page for toddlers, underwater ocean scene with five cute cartoon sharks partially hidden behind coral rocks and seaweed for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 25,
+          "animal": "Octopus",
+          "coloringPage": {
+            "filename": "book1_spread25_octopus_coloring.png",
+            "prompt": "cute cartoon octopus with curly tentacles, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book1_spread25_octopus_activity.png",
+            "type": "maze",
+            "title": "Help the Octopus Find Its Treasure!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon octopus on one side and a treasure chest on other side with simple curvy paths through underwater scene, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        }
+      ]
+    },
+    {
+      "bookNumber": 2,
+      "title": "Ocean Friends Coloring & Activity Book",
+      "folder": "book2_ocean_creatures",
+      "spreads": [
+        {
+          "spreadNumber": 1,
+          "animal": "Dolphin",
+          "coloringPage": {
+            "filename": "book2_spread01_dolphin_coloring.png",
+            "prompt": "cute cartoon dolphin jumping out of ocean waves, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread01_dolphin_activity.png",
+            "type": "maze",
+            "title": "Help the Dolphin Find Its Pod!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon dolphin on one side and a group of three dolphins on other side with simple wide ocean-wave paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 2,
+          "animal": "Whale",
+          "coloringPage": {
+            "filename": "book2_spread02_whale_coloring.png",
+            "prompt": "cute cartoon whale spouting water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread02_whale_activity.png",
+            "type": "counting",
+            "title": "Count the Whale Spouts!",
+            "prompt": "counting activity page for toddlers, cute cartoon whales spouting water with different numbers of water drops above each whale for counting, numbers 1 through 5, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 3,
+          "animal": "Octopus",
+          "coloringPage": {
+            "filename": "book2_spread03_octopus_coloring.png",
+            "prompt": "cute cartoon octopus with curly tentacles underwater, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread03_octopus_activity.png",
+            "type": "matching",
+            "title": "Match the Octopus to Its Treasure!",
+            "prompt": "matching activity page for toddlers, three cute cartoon octopuses on the left holding different items and three matching treasures on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 4,
+          "animal": "Starfish",
+          "coloringPage": {
+            "filename": "book2_spread04_starfish_coloring.png",
+            "prompt": "cute cartoon starfish on sandy ocean floor, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread04_starfish_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: S-T-A-R-F-I-S-H",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling STARFISH with a cute cartoon starfish waving at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 5,
+          "animal": "Seahorse",
+          "coloringPage": {
+            "filename": "book2_spread05_seahorse_coloring.png",
+            "prompt": "cute cartoon seahorse floating among seaweed, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread05_seahorse_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Seahorses!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon seahorses side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 6,
+          "animal": "Clownfish",
+          "coloringPage": {
+            "filename": "book2_spread06_clownfish_coloring.png",
+            "prompt": "cute cartoon clownfish hiding in a sea anemone, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread06_clownfish_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Clownfish!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 15 forming the outline of a cute cartoon clownfish with anemone partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 7,
+          "animal": "Sea Turtle",
+          "coloringPage": {
+            "filename": "book2_spread07_sea_turtle_coloring.png",
+            "prompt": "cute cartoon sea turtle swimming in the ocean, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread07_sea_turtle_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Sea Turtle by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon sea turtle with shell divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 8,
+          "animal": "Crab",
+          "coloringPage": {
+            "filename": "book2_spread08_crab_coloring.png",
+            "prompt": "cute cartoon crab on the beach with pincers raised, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread08_crab_activity.png",
+            "type": "which-is-different",
+            "title": "Which Crab is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon crabs in a row where one crab has different sized pincers from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 9,
+          "animal": "Jellyfish",
+          "coloringPage": {
+            "filename": "book2_spread09_jellyfish_coloring.png",
+            "prompt": "cute cartoon jellyfish with flowing tentacles, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread09_jellyfish_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Jellyfish and Small Jellyfish!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon jellyfish in different sizes asking children to circle the big one in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 10,
+          "animal": "Shark",
+          "coloringPage": {
+            "filename": "book2_spread10_shark_coloring.png",
+            "prompt": "cute cartoon friendly baby shark swimming, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread10_shark_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Shark Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon shark then fish then shark then fish with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 11,
+          "animal": "Pufferfish",
+          "coloringPage": {
+            "filename": "book2_spread11_pufferfish_coloring.png",
+            "prompt": "cute cartoon pufferfish all puffed up and round, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread11_pufferfish_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Pufferfish to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon pufferfish in different puff sizes on top and three pufferfish silhouettes on bottom in different order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 12,
+          "animal": "Narwhal",
+          "coloringPage": {
+            "filename": "book2_spread12_narwhal_coloring.png",
+            "prompt": "cute cartoon narwhal with sparkly horn in arctic water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread12_narwhal_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Narwhals!",
+            "prompt": "hidden objects activity page for toddlers, arctic ocean scene with five cute cartoon narwhals partially hidden behind icebergs and waves for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 13,
+          "animal": "Seal",
+          "coloringPage": {
+            "filename": "book2_spread13_seal_coloring.png",
+            "prompt": "cute cartoon baby seal pup on an ice floe, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread13_seal_activity.png",
+            "type": "maze",
+            "title": "Help the Seal Find Its Fish!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon seal on one side and a bucket of fish on other side with simple wide icy paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 14,
+          "animal": "Lobster",
+          "coloringPage": {
+            "filename": "book2_spread14_lobster_coloring.png",
+            "prompt": "cute cartoon lobster with big claws, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread14_lobster_activity.png",
+            "type": "counting",
+            "title": "Count the Lobster Claws!",
+            "prompt": "counting activity page for toddlers, several cute cartoon lobsters with varying numbers of visible claws for children to count, numbers and empty boxes for writing answers, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 15,
+          "animal": "Manta Ray",
+          "coloringPage": {
+            "filename": "book2_spread15_manta_ray_coloring.png",
+            "prompt": "cute cartoon manta ray gliding through water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread15_manta_ray_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: M-A-N-T-A R-A-Y",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling MANTA RAY with a cute cartoon manta ray gliding at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 16,
+          "animal": "Otter",
+          "coloringPage": {
+            "filename": "book2_spread16_otter_coloring.png",
+            "prompt": "cute cartoon sea otter floating on its back in water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread16_otter_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Otters!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon sea otters floating on their backs side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 17,
+          "animal": "Walrus",
+          "coloringPage": {
+            "filename": "book2_spread17_walrus_coloring.png",
+            "prompt": "cute cartoon walrus with big tusks sitting on a rock, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread17_walrus_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Walrus!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 14 forming the outline of a cute cartoon walrus with tusks partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 18,
+          "animal": "Angelfish",
+          "coloringPage": {
+            "filename": "book2_spread18_angelfish_coloring.png",
+            "prompt": "cute cartoon angelfish with beautiful flowing fins, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread18_angelfish_activity.png",
+            "type": "matching",
+            "title": "Match the Angelfish to Their Coral!",
+            "prompt": "matching activity page for toddlers, four cute cartoon angelfish on the left and four different coral shapes on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 19,
+          "animal": "Shrimp",
+          "coloringPage": {
+            "filename": "book2_spread19_shrimp_coloring.png",
+            "prompt": "cute cartoon shrimp with curly body, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread19_shrimp_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Shrimp by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon shrimp divided into simple sections with numbers 1 through 4 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 20,
+          "animal": "Squid",
+          "coloringPage": {
+            "filename": "book2_spread20_squid_coloring.png",
+            "prompt": "cute cartoon squid with big round head and tentacles, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread20_squid_activity.png",
+            "type": "which-is-different",
+            "title": "Which Squid is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon squids in a row where one squid has a different number of tentacles from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 21,
+          "animal": "Pelican",
+          "coloringPage": {
+            "filename": "book2_spread21_pelican_coloring.png",
+            "prompt": "cute cartoon pelican with big beak pouch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread21_pelican_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Pelican and Small Pelican!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon pelicans in different sizes asking children to circle the bigger pelican in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 22,
+          "animal": "Hermit Crab",
+          "coloringPage": {
+            "filename": "book2_spread22_hermit_crab_coloring.png",
+            "prompt": "cute cartoon hermit crab peeking out of a colorful shell, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread22_hermit_crab_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Hermit Crab Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon hermit crab then shell then hermit crab then shell with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 23,
+          "animal": "Manatee",
+          "coloringPage": {
+            "filename": "book2_spread23_manatee_coloring.png",
+            "prompt": "cute cartoon manatee swimming peacefully underwater, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread23_manatee_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Manatee to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon manatees in different poses on top and three manatee silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 24,
+          "animal": "Swordfish",
+          "coloringPage": {
+            "filename": "book2_spread24_swordfish_coloring.png",
+            "prompt": "cute cartoon swordfish with long pointed nose swimming fast, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread24_swordfish_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Swordfish!",
+            "prompt": "hidden objects activity page for toddlers, deep ocean scene with five cute cartoon swordfish partially hidden behind coral formations and seaweed for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 25,
+          "animal": "Coral Reef",
+          "coloringPage": {
+            "filename": "book2_spread25_coral_reef_coloring.png",
+            "prompt": "cute cartoon coral reef scene with small fish and bubbles, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes on the fish --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book2_spread25_coral_reef_activity.png",
+            "type": "maze",
+            "title": "Help the Fish Get Back to the Coral Reef!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon fish on one side and a beautiful coral reef on other side with simple wide underwater paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        }
+      ]
+    },
+    {
+      "bookNumber": 3,
+      "title": "Farm Friends Coloring & Activity Book",
+      "folder": "book3_farm_friends",
+      "spreads": [
+        {
+          "spreadNumber": 1,
+          "animal": "Cow",
+          "coloringPage": {
+            "filename": "book3_spread01_cow_coloring.png",
+            "prompt": "cute cartoon cow with spots standing in a field, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread01_cow_activity.png",
+            "type": "maze",
+            "title": "Help the Cow Find the Barn!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon cow on one side and a red barn on other side with simple wide paths through a farm field, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 2,
+          "animal": "Pig",
+          "coloringPage": {
+            "filename": "book3_spread02_pig_coloring.png",
+            "prompt": "cute cartoon pig playing in mud, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread02_pig_activity.png",
+            "type": "counting",
+            "title": "Count the Piglets!",
+            "prompt": "counting activity page for toddlers, cute cartoon piglets in different playful poses with numbers 1 through 6 next to empty boxes for counting, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 3,
+          "animal": "Chicken",
+          "coloringPage": {
+            "filename": "book3_spread03_chicken_coloring.png",
+            "prompt": "cute cartoon chicken with fluffy feathers, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread03_chicken_activity.png",
+            "type": "matching",
+            "title": "Match the Chickens to Their Eggs!",
+            "prompt": "matching activity page for toddlers, three cute cartoon chickens on the left and three nests with eggs on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 4,
+          "animal": "Horse",
+          "coloringPage": {
+            "filename": "book3_spread04_horse_coloring.png",
+            "prompt": "cute cartoon horse with flowing mane in a pasture, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread04_horse_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: H-O-R-S-E",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling HORSE with a cute cartoon horse galloping at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 5,
+          "animal": "Sheep",
+          "coloringPage": {
+            "filename": "book3_spread05_sheep_coloring.png",
+            "prompt": "cute cartoon fluffy sheep with woolly coat, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread05_sheep_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Sheep!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon fluffy sheep side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 6,
+          "animal": "Goat",
+          "coloringPage": {
+            "filename": "book3_spread06_goat_coloring.png",
+            "prompt": "cute cartoon goat with little horns and a bell, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread06_goat_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Goat!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon goat with horns and bell partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 7,
+          "animal": "Donkey",
+          "coloringPage": {
+            "filename": "book3_spread07_donkey_coloring.png",
+            "prompt": "cute cartoon donkey with big floppy ears, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread07_donkey_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Donkey by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon donkey divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 8,
+          "animal": "Rooster",
+          "coloringPage": {
+            "filename": "book3_spread08_rooster_coloring.png",
+            "prompt": "cute cartoon rooster crowing with colorful tail feathers, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread08_rooster_activity.png",
+            "type": "which-is-different",
+            "title": "Which Rooster is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon roosters in a row where one rooster has a different tail from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 9,
+          "animal": "Duck",
+          "coloringPage": {
+            "filename": "book3_spread09_duck_coloring.png",
+            "prompt": "cute cartoon farm duck waddling near a pond, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread09_duck_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Duck and Small Duck!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon ducks in different sizes asking children to circle the bigger duck in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 10,
+          "animal": "Turkey",
+          "coloringPage": {
+            "filename": "book3_spread10_turkey_coloring.png",
+            "prompt": "cute cartoon turkey with big fanned tail feathers, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread10_turkey_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Turkey Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon turkey then feather then turkey then feather with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 11,
+          "animal": "Barn Cat",
+          "coloringPage": {
+            "filename": "book3_spread11_barn_cat_coloring.png",
+            "prompt": "cute cartoon barn cat sitting on a hay bale, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread11_barn_cat_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Barn Cat to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon barn cats in different poses on top and three cat silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 12,
+          "animal": "Farm Dog",
+          "coloringPage": {
+            "filename": "book3_spread12_farm_dog_coloring.png",
+            "prompt": "cute cartoon farm dog with a bandana around its neck, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread12_farm_dog_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Farm Dogs!",
+            "prompt": "hidden objects activity page for toddlers, farm scene with five cute cartoon farm dogs partially hidden behind hay bales barrels and fences for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 13,
+          "animal": "Rabbit",
+          "coloringPage": {
+            "filename": "book3_spread13_rabbit_coloring.png",
+            "prompt": "cute cartoon farm rabbit nibbling on a carrot, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread13_rabbit_activity.png",
+            "type": "maze",
+            "title": "Help the Rabbit Find Its Burrow!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon rabbit on one side and a cozy burrow on other side with simple wide paths through a garden, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 14,
+          "animal": "Chick",
+          "coloringPage": {
+            "filename": "book3_spread14_chick_coloring.png",
+            "prompt": "cute cartoon baby chick just hatched from egg, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread14_chick_activity.png",
+            "type": "counting",
+            "title": "Count the Baby Chicks!",
+            "prompt": "counting activity page for toddlers, cute cartoon baby chicks in different poses some hatching from eggs with numbers 1 through 8 for counting, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 15,
+          "animal": "Llama",
+          "coloringPage": {
+            "filename": "book3_spread15_llama_coloring.png",
+            "prompt": "cute cartoon llama with fluffy wool, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread15_llama_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: L-L-A-M-A",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling LLAMA with a cute cartoon llama wearing a blanket at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 16,
+          "animal": "Barn Owl",
+          "coloringPage": {
+            "filename": "book3_spread16_barn_owl_coloring.png",
+            "prompt": "cute cartoon barn owl perched on a barn rafter, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread16_barn_owl_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Barn Owls!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon barn owls perched on rafters side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 17,
+          "animal": "Mouse",
+          "coloringPage": {
+            "filename": "book3_spread17_mouse_coloring.png",
+            "prompt": "cute cartoon farm mouse nibbling on cheese, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread17_mouse_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Mouse!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 10 forming the outline of a cute cartoon mouse with cheese partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 18,
+          "animal": "Goose",
+          "coloringPage": {
+            "filename": "book3_spread18_goose_coloring.png",
+            "prompt": "cute cartoon goose walking on the farm, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread18_goose_activity.png",
+            "type": "matching",
+            "title": "Match the Geese to Their Nests!",
+            "prompt": "matching activity page for toddlers, three cute cartoon geese on the left and three nests with goslings on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 19,
+          "animal": "Ram",
+          "coloringPage": {
+            "filename": "book3_spread19_ram_coloring.png",
+            "prompt": "cute cartoon ram with big curly horns, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread19_ram_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Ram by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon ram with curly horns divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 20,
+          "animal": "Pony",
+          "coloringPage": {
+            "filename": "book3_spread20_pony_coloring.png",
+            "prompt": "cute cartoon pony with ribbons in its mane, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread20_pony_activity.png",
+            "type": "which-is-different",
+            "title": "Which Pony is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon ponies in a row where one pony has a different mane style from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 21,
+          "animal": "Piglet",
+          "coloringPage": {
+            "filename": "book3_spread21_piglet_coloring.png",
+            "prompt": "cute cartoon tiny piglet with a curly tail, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread21_piglet_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Piglet and Small Piglet!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon piglets in different sizes asking children to circle the bigger piglet in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 22,
+          "animal": "Lamb",
+          "coloringPage": {
+            "filename": "book3_spread22_lamb_coloring.png",
+            "prompt": "cute cartoon baby lamb with fluffy wool jumping, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread22_lamb_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Lamb Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon lamb then flower then lamb then flower with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 23,
+          "animal": "Calf",
+          "coloringPage": {
+            "filename": "book3_spread23_calf_coloring.png",
+            "prompt": "cute cartoon baby calf with spots drinking from a bucket, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread23_calf_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Calf to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon calves in different poses on top and three calf silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 24,
+          "animal": "Hen",
+          "coloringPage": {
+            "filename": "book3_spread24_hen_coloring.png",
+            "prompt": "cute cartoon hen sitting on a nest of eggs, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread24_hen_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Eggs!",
+            "prompt": "hidden objects activity page for toddlers, farm scene with a cute cartoon hen and six eggs partially hidden behind hay bales bushes and farm tools for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 25,
+          "animal": "Tractor Scene",
+          "coloringPage": {
+            "filename": "book3_spread25_tractor_scene_coloring.png",
+            "prompt": "cute cartoon farm tractor with a friendly face driving through a field, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book3_spread25_tractor_scene_activity.png",
+            "type": "maze",
+            "title": "Help the Tractor Get to the Farm!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon tractor on one side and a friendly farm with barn and animals on other side with simple wide dirt road paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        }
+      ]
+    },
+    {
+      "bookNumber": 4,
+      "title": "Dinosaur Adventures Coloring & Activity Book",
+      "folder": "book4_dinosaur_adventures",
+      "spreads": [
+        {
+          "spreadNumber": 1,
+          "animal": "T-Rex",
+          "coloringPage": {
+            "filename": "book4_spread01_t_rex_coloring.png",
+            "prompt": "cute cartoon T-Rex dinosaur with tiny arms, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread01_t_rex_activity.png",
+            "type": "maze",
+            "title": "Help the T-Rex Find His Dinner!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon T-Rex on one side and a pile of leaves and fruit on other side with simple wide paths through a prehistoric landscape, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 2,
+          "animal": "Triceratops",
+          "coloringPage": {
+            "filename": "book4_spread02_triceratops_coloring.png",
+            "prompt": "cute cartoon triceratops with three horns and frill, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread02_triceratops_activity.png",
+            "type": "counting",
+            "title": "Count the Triceratops Horns!",
+            "prompt": "counting activity page for toddlers, several cute cartoon triceratops of different sizes with varying features for children to count, numbers and empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 3,
+          "animal": "Brontosaurus",
+          "coloringPage": {
+            "filename": "book4_spread03_brontosaurus_coloring.png",
+            "prompt": "cute cartoon brontosaurus with very long neck eating from a tall tree, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread03_brontosaurus_activity.png",
+            "type": "matching",
+            "title": "Match the Brontosaurus to Its Tree!",
+            "prompt": "matching activity page for toddlers, three cute cartoon brontosauruses of different heights on the left and three trees of matching heights on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 4,
+          "animal": "Stegosaurus",
+          "coloringPage": {
+            "filename": "book4_spread04_stegosaurus_coloring.png",
+            "prompt": "cute cartoon stegosaurus with big back plates, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread04_stegosaurus_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: D-I-N-O",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling DINO with a cute cartoon stegosaurus standing proudly at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 5,
+          "animal": "Pterodactyl",
+          "coloringPage": {
+            "filename": "book4_spread05_pterodactyl_coloring.png",
+            "prompt": "cute cartoon pterodactyl flying in the sky, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread05_pterodactyl_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Pterodactyls!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon pterodactyls flying side by side with three simple differences in their wings, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 6,
+          "animal": "Velociraptor",
+          "coloringPage": {
+            "filename": "book4_spread06_velociraptor_coloring.png",
+            "prompt": "cute cartoon velociraptor standing and looking curious, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread06_velociraptor_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Velociraptor!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 15 forming the outline of a cute cartoon velociraptor with head partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 7,
+          "animal": "Ankylosaurus",
+          "coloringPage": {
+            "filename": "book4_spread07_ankylosaurus_coloring.png",
+            "prompt": "cute cartoon ankylosaurus with armored body and club tail, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread07_ankylosaurus_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Ankylosaurus by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon ankylosaurus with armored plates divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 8,
+          "animal": "Diplodocus",
+          "coloringPage": {
+            "filename": "book4_spread08_diplodocus_coloring.png",
+            "prompt": "cute cartoon diplodocus with extremely long neck and tail, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread08_diplodocus_activity.png",
+            "type": "which-is-different",
+            "title": "Which Diplodocus is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon diplodocuses in a row where one has a different length neck from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 9,
+          "animal": "Spinosaurus",
+          "coloringPage": {
+            "filename": "book4_spread09_spinosaurus_coloring.png",
+            "prompt": "cute cartoon spinosaurus with big sail on its back, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread09_spinosaurus_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Spinosaurus and Small Spinosaurus!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon spinosauruses in different sizes asking children to circle the bigger one in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 10,
+          "animal": "Parasaurolophus",
+          "coloringPage": {
+            "filename": "book4_spread10_parasaurolophus_coloring.png",
+            "prompt": "cute cartoon parasaurolophus with long curved head crest, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread10_parasaurolophus_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Dinosaur Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon parasaurolophus then palm tree then parasaurolophus then palm tree with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 11,
+          "animal": "Baby Dino in Egg",
+          "coloringPage": {
+            "filename": "book4_spread11_baby_dino_in_egg_coloring.png",
+            "prompt": "cute cartoon baby dinosaur hatching from a cracked egg, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread11_baby_dino_in_egg_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Baby Dino to Its Egg!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon baby dinosaurs on top and three egg-shaped silhouettes on bottom in different order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 12,
+          "animal": "Dino Family",
+          "coloringPage": {
+            "filename": "book4_spread12_dino_family_coloring.png",
+            "prompt": "cute cartoon dinosaur family with mama papa and baby dinosaur together, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread12_dino_family_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Dinosaurs!",
+            "prompt": "hidden objects activity page for toddlers, prehistoric jungle scene with five cute cartoon dinosaurs partially hidden behind palm trees rocks and ferns for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 13,
+          "animal": "Dino with Volcano",
+          "coloringPage": {
+            "filename": "book4_spread13_dino_with_volcano_coloring.png",
+            "prompt": "cute cartoon dinosaur standing in front of a friendly volcano, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread13_dino_with_volcano_activity.png",
+            "type": "maze",
+            "title": "Help the Dino Escape the Volcano!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon dinosaur near a volcano on one side and a safe meadow on other side with simple wide paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 14,
+          "animal": "Dino in Jungle",
+          "coloringPage": {
+            "filename": "book4_spread14_dino_in_jungle_coloring.png",
+            "prompt": "cute cartoon dinosaur exploring a lush jungle with big leaves, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread14_dino_in_jungle_activity.png",
+            "type": "counting",
+            "title": "Count the Jungle Dinosaurs!",
+            "prompt": "counting activity page for toddlers, cute cartoon dinosaurs peeking out from jungle leaves and bushes for children to count, numbers 1 through 5 with empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 15,
+          "animal": "Dino Playing",
+          "coloringPage": {
+            "filename": "book4_spread15_dino_playing_coloring.png",
+            "prompt": "cute cartoon dinosaur playing with a ball happily, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread15_dino_playing_activity.png",
+            "type": "matching",
+            "title": "Match the Dinos to Their Toys!",
+            "prompt": "matching activity page for toddlers, three cute cartoon dinosaurs on the left and three different toys ball kite and teddy bear on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 16,
+          "animal": "Dino Eating Leaves",
+          "coloringPage": {
+            "filename": "book4_spread16_dino_eating_leaves_coloring.png",
+            "prompt": "cute cartoon dinosaur happily munching on big green leaves, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread16_dino_eating_leaves_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: R-O-A-R",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling ROAR with a cute cartoon dinosaur eating leaves at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 17,
+          "animal": "Dino Swimming",
+          "coloringPage": {
+            "filename": "book4_spread17_dino_swimming_coloring.png",
+            "prompt": "cute cartoon dinosaur swimming happily in a lake, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread17_dino_swimming_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Swimming Dinos!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon dinosaurs swimming in a lake side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 18,
+          "animal": "Dino Flying",
+          "coloringPage": {
+            "filename": "book4_spread18_dino_flying_coloring.png",
+            "prompt": "cute cartoon baby pterodactyl learning to fly with tiny wings spread, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread18_dino_flying_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Flying Dino!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon flying dinosaur with clouds partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 19,
+          "animal": "Two Dino Friends",
+          "coloringPage": {
+            "filename": "book4_spread19_two_dino_friends_coloring.png",
+            "prompt": "two cute cartoon dinosaur friends standing together happily, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread19_two_dino_friends_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Dino Friends by Numbers!",
+            "prompt": "color by number activity page for toddlers, two cute cartoon dinosaur friends divided into simple sections with numbers 1 through 6 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 20,
+          "animal": "Dino with Butterfly",
+          "coloringPage": {
+            "filename": "book4_spread20_dino_with_butterfly_coloring.png",
+            "prompt": "cute cartoon dinosaur looking at a butterfly on its nose, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread20_dino_with_butterfly_activity.png",
+            "type": "which-is-different",
+            "title": "Which Dino and Butterfly Pair is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon dinosaurs each with a butterfly where one pair has a noticeable difference from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 21,
+          "animal": "Dino Sleeping",
+          "coloringPage": {
+            "filename": "book4_spread21_dino_sleeping_coloring.png",
+            "prompt": "cute cartoon dinosaur curled up sleeping peacefully, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes closed --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread21_dino_sleeping_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Sleeping Dino and Small Sleeping Dino!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon sleeping dinosaurs in different sizes asking children to circle the bigger one in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 22,
+          "animal": "Dino Running",
+          "coloringPage": {
+            "filename": "book4_spread22_dino_running_coloring.png",
+            "prompt": "cute cartoon dinosaur running fast with happy expression, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread22_dino_running_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Running Dino Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon running dinosaur then footprint then running dinosaur then footprint with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 23,
+          "animal": "Dino and Palm Tree",
+          "coloringPage": {
+            "filename": "book4_spread23_dino_and_palm_tree_coloring.png",
+            "prompt": "cute cartoon dinosaur standing next to a tall palm tree, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread23_dino_and_palm_tree_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Dino to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, four cute cartoon dinosaurs in different poses on top and four dinosaur silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 24,
+          "animal": "Dino Footprints",
+          "coloringPage": {
+            "filename": "book4_spread24_dino_footprints_coloring.png",
+            "prompt": "cute cartoon dinosaur looking at its own big footprints in the ground, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread24_dino_footprints_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Dino Footprints!",
+            "prompt": "hidden objects activity page for toddlers, prehistoric scene with a cute cartoon dinosaur and eight dinosaur footprints partially hidden in the ground among rocks and plants for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 25,
+          "animal": "Dino Party",
+          "coloringPage": {
+            "filename": "book4_spread25_dino_party_coloring.png",
+            "prompt": "cute cartoon dinosaurs having a party with party hats and balloons, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book4_spread25_dino_party_activity.png",
+            "type": "maze",
+            "title": "Help the Dino Get to the Party!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon dinosaur on one side and a dinosaur party with balloons and cake on other side with simple wide festive paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        }
+      ]
+    },
+    {
+      "bookNumber": 5,
+      "title": "Bugs, Birds & Butterflies Coloring & Activity Book",
+      "folder": "book5_bugs_birds_butterflies",
+      "spreads": [
+        {
+          "spreadNumber": 1,
+          "animal": "Butterfly",
+          "coloringPage": {
+            "filename": "book5_spread01_butterfly_coloring.png",
+            "prompt": "cute cartoon butterfly with large decorative wings and antennae, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread01_butterfly_activity.png",
+            "type": "maze",
+            "title": "Help the Butterfly Find the Flower!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon butterfly on one side and a big beautiful flower on other side with simple wide garden paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 2,
+          "animal": "Ladybug",
+          "coloringPage": {
+            "filename": "book5_spread02_ladybug_coloring.png",
+            "prompt": "cute cartoon ladybug with spots sitting on a leaf, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread02_ladybug_activity.png",
+            "type": "counting",
+            "title": "Count the Ladybug Spots!",
+            "prompt": "counting activity page for toddlers, several cute cartoon ladybugs each with a different number of spots for children to count, numbers 1 through 6 with empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 3,
+          "animal": "Bumblebee",
+          "coloringPage": {
+            "filename": "book5_spread03_bumblebee_coloring.png",
+            "prompt": "cute cartoon bumblebee with stripes buzzing near a flower, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread03_bumblebee_activity.png",
+            "type": "matching",
+            "title": "Match the Bees to Their Hives!",
+            "prompt": "matching activity page for toddlers, three cute cartoon bumblebees on the left and three beehives on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 4,
+          "animal": "Caterpillar",
+          "coloringPage": {
+            "filename": "book5_spread04_caterpillar_coloring.png",
+            "prompt": "cute cartoon caterpillar with round body segments on a leaf, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread04_caterpillar_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: B-U-G",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling BUG with a cute cartoon caterpillar crawling along the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 5,
+          "animal": "Dragonfly",
+          "coloringPage": {
+            "filename": "book5_spread05_dragonfly_coloring.png",
+            "prompt": "cute cartoon dragonfly with sparkly transparent wings hovering over a pond, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread05_dragonfly_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Dragonflies!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon dragonflies hovering side by side with three simple differences in their wings, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 6,
+          "animal": "Robin",
+          "coloringPage": {
+            "filename": "book5_spread06_robin_coloring.png",
+            "prompt": "cute cartoon robin bird with red breast sitting on a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread06_robin_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Robin!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 12 forming the outline of a cute cartoon robin on a branch with leaves partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 7,
+          "animal": "Parrot",
+          "coloringPage": {
+            "filename": "book5_spread07_parrot_coloring.png",
+            "prompt": "cute cartoon parrot with colorful feathers perched on a tropical branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread07_parrot_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Parrot by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon parrot with feathers divided into simple sections with numbers 1 through 6 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 8,
+          "animal": "Owl",
+          "coloringPage": {
+            "filename": "book5_spread08_owl_coloring.png",
+            "prompt": "cute cartoon owl with big round eyes perched on a tree branch at night, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread08_owl_activity.png",
+            "type": "which-is-different",
+            "title": "Which Owl is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon owls in a row where one owl has different ear tufts from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 9,
+          "animal": "Flamingo",
+          "coloringPage": {
+            "filename": "book5_spread09_flamingo_coloring.png",
+            "prompt": "cute cartoon flamingo standing on one leg in water, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread09_flamingo_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Flamingo and Small Flamingo!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon flamingos in different sizes asking children to circle the bigger flamingo in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 10,
+          "animal": "Peacock",
+          "coloringPage": {
+            "filename": "book5_spread10_peacock_coloring.png",
+            "prompt": "cute cartoon peacock with big fanned tail feathers displayed, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread10_peacock_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Peacock Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon peacock feather then eye spot then peacock feather then eye spot with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 11,
+          "animal": "Snail",
+          "coloringPage": {
+            "filename": "book5_spread11_snail_coloring.png",
+            "prompt": "cute cartoon snail with spiral shell crawling on a leaf, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread11_snail_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Snail to Its Shell!",
+            "prompt": "shadow matching activity page for toddlers, three cute cartoon snails with different shell patterns on top and three shell silhouettes on bottom in different order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 12,
+          "animal": "Spider",
+          "coloringPage": {
+            "filename": "book5_spread12_spider_coloring.png",
+            "prompt": "cute cartoon friendly spider sitting in a web, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread12_spider_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Spiders!",
+            "prompt": "hidden objects activity page for toddlers, garden scene with five cute cartoon spiders partially hidden behind flowers leaves and webs for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 13,
+          "animal": "Ant",
+          "coloringPage": {
+            "filename": "book5_spread13_ant_coloring.png",
+            "prompt": "cute cartoon ant carrying a big crumb, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread13_ant_activity.png",
+            "type": "maze",
+            "title": "Help the Ant Find the Picnic!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon ant on one side and a picnic blanket with food on other side with simple wide paths through grass, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 14,
+          "animal": "Grasshopper",
+          "coloringPage": {
+            "filename": "book5_spread14_grasshopper_coloring.png",
+            "prompt": "cute cartoon grasshopper sitting on a blade of grass, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread14_grasshopper_activity.png",
+            "type": "counting",
+            "title": "Count the Grasshoppers!",
+            "prompt": "counting activity page for toddlers, cute cartoon grasshoppers hopping on different blades of grass for children to count, numbers 1 through 7 with empty boxes, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 15,
+          "animal": "Hummingbird",
+          "coloringPage": {
+            "filename": "book5_spread15_hummingbird_coloring.png",
+            "prompt": "cute cartoon hummingbird hovering near a flower sipping nectar, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread15_hummingbird_activity.png",
+            "type": "matching",
+            "title": "Match the Hummingbirds to Their Flowers!",
+            "prompt": "matching activity page for toddlers, three cute cartoon hummingbirds on the left and three different flowers on the right with tangled lines connecting them, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 16,
+          "animal": "Toucan",
+          "coloringPage": {
+            "filename": "book5_spread16_toucan_coloring.png",
+            "prompt": "cute cartoon toucan with big colorful beak on a tropical branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread16_toucan_activity.png",
+            "type": "tracing",
+            "title": "Trace the Letters: B-I-R-D",
+            "prompt": "letter tracing activity page for toddlers, large dotted outline letters spelling BIRD with a cute cartoon toucan perched at the top, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 17,
+          "animal": "Eagle",
+          "coloringPage": {
+            "filename": "book5_spread17_eagle_coloring.png",
+            "prompt": "cute cartoon baby eagle with spread wings, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread17_eagle_activity.png",
+            "type": "spot-the-difference",
+            "title": "Find 3 Differences Between the Eagles!",
+            "prompt": "spot the difference activity page for toddlers, two nearly identical cute cartoon eagles with spread wings side by side with three simple differences, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 18,
+          "animal": "Penguin",
+          "coloringPage": {
+            "filename": "book5_spread18_penguin_coloring.png",
+            "prompt": "cute cartoon penguin waddling on ice with a scarf, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread18_penguin_activity.png",
+            "type": "connect-dots",
+            "title": "Connect the Dots to Reveal the Penguin!",
+            "prompt": "connect the dots activity page for toddlers, numbered dots 1 through 14 forming the outline of a cute cartoon penguin with scarf partially drawn, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 19,
+          "animal": "Firefly",
+          "coloringPage": {
+            "filename": "book5_spread19_firefly_coloring.png",
+            "prompt": "cute cartoon firefly glowing brightly at night, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread19_firefly_activity.png",
+            "type": "color-by-number",
+            "title": "Color the Firefly by Numbers!",
+            "prompt": "color by number activity page for toddlers, large cute cartoon firefly with body and wings divided into simple sections with numbers 1 through 5 and a color key at the bottom, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 20,
+          "animal": "Cricket",
+          "coloringPage": {
+            "filename": "book5_spread20_cricket_coloring.png",
+            "prompt": "cute cartoon cricket playing music with its legs, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread20_cricket_activity.png",
+            "type": "which-is-different",
+            "title": "Which Cricket is Different?",
+            "prompt": "which is different activity page for toddlers, four cute cartoon crickets in a row where one cricket holds a different instrument from the other three, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 21,
+          "animal": "Blue Jay",
+          "coloringPage": {
+            "filename": "book5_spread21_blue_jay_coloring.png",
+            "prompt": "cute cartoon blue jay with distinctive crest on a branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread21_blue_jay_activity.png",
+            "type": "big-vs-small",
+            "title": "Big Blue Jay and Small Blue Jay!",
+            "prompt": "big vs small activity page for toddlers, pairs of cute cartoon blue jays in different sizes asking children to circle the bigger blue jay in each pair, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 22,
+          "animal": "Cardinal",
+          "coloringPage": {
+            "filename": "book5_spread22_cardinal_coloring.png",
+            "prompt": "cute cartoon cardinal bird with pointed crest on a snowy branch, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread22_cardinal_activity.png",
+            "type": "pattern-completion",
+            "title": "Complete the Cardinal Pattern!",
+            "prompt": "pattern completion activity page for toddlers, repeating pattern of cute cartoon cardinal then berry then cardinal then berry with missing items for children to fill in, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 23,
+          "animal": "Beetle",
+          "coloringPage": {
+            "filename": "book5_spread23_beetle_coloring.png",
+            "prompt": "cute cartoon beetle with shiny round shell, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread23_beetle_activity.png",
+            "type": "shadow-matching",
+            "title": "Match the Beetle to Its Shadow!",
+            "prompt": "shadow matching activity page for toddlers, four cute cartoon beetles with different shell patterns on top and four beetle silhouettes on bottom in shuffled order for matching, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 24,
+          "animal": "Worm",
+          "coloringPage": {
+            "filename": "book5_spread24_worm_coloring.png",
+            "prompt": "cute cartoon worm peeking out of an apple, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread24_worm_activity.png",
+            "type": "find-the-hidden",
+            "title": "Find the Hidden Worms!",
+            "prompt": "hidden objects activity page for toddlers, garden scene with six cute cartoon worms partially hidden in apples soil leaves and flowers for children to find, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        },
+        {
+          "spreadNumber": 25,
+          "animal": "Garden Scene",
+          "coloringPage": {
+            "filename": "book5_spread25_garden_scene_coloring.png",
+            "prompt": "cute cartoon garden scene with flowers butterflies and bees, coloring book page for toddlers, bold thick black outlines, simple shapes, no shading, no color, no gray fill, white background, full page illustration, kawaii style, big friendly eyes on all creatures --ar 17:22 --style raw --v 6.1"
+          },
+          "activityPage": {
+            "filename": "book5_spread25_garden_scene_activity.png",
+            "type": "maze",
+            "title": "Help the Bee Get to the Garden!",
+            "prompt": "simple maze puzzle for toddlers, cute cartoon bumblebee on one side and a beautiful garden full of flowers on other side with simple wide garden paths, bold thick black outlines, no shading, no color, white background, coloring book style --ar 17:22 --style raw --v 6.1"
+          }
+        }
+      ]
+    }
+  ]
+}
